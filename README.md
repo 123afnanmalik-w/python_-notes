@@ -52,4 +52,3 @@ quiz_history.json    # Auto-created after your first game
 2. Answer **A / B / C / D** — your response time is tracked
 3. See your score summary with numpy stats
 4. View a matplotlib chart breaking down your performance
-5.
